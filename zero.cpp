@@ -1,4 +1,5 @@
 // Assignment Zero
+// Get area of circle from user inputted radius
 
 #include <iostream>
 
