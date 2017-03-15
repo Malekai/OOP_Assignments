@@ -1,5 +1,6 @@
 //Minhajul Malek
 //Assignment One
+//Process set of floating point numbers from user and get statistics
 
 #include <iostream>
 
